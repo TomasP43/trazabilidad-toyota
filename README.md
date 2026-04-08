@@ -54,6 +54,7 @@ AppSheet (app móvil)
 ---
 
 ## 📈 Dashboards Power BI
+# 🚗 Sistema de Trazabilidad Logística — Precarga de Unidades Toyota
 
 El dashboard principal muestra una **silueta vectorial del vehículo** con colores de intensidad proporcionales a la cantidad de daños por zona. Permite identificar de un vistazo qué parte concentra más averías.
 
