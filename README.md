@@ -37,6 +37,7 @@ Tabla	Descripción	Registros (prod.)
 `Listado total Precarga`	Vista consolidada con VLOOKUP cruzando Unidades + Inspecciones	calculada
 ---
 📈 Dashboards Power BI
+![Heatmap de daños por zona del vehículo](screenshots/heatmap_dashboard.png)
 El dashboard principal muestra una silueta vectorial del vehículo con colores de intensidad proporcionales a la cantidad de daños por zona. Permite identificar de un vistazo qué parte concentra más averías.
 Métricas incluidas:
 Daños por posición de carga (A1–B4)
